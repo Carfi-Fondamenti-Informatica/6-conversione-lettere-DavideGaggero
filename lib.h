@@ -4,4 +4,4 @@
 
 char carattere (char a);
 
-#endif // ES6_LIB_H
+#endif //ES6_LIB_H
